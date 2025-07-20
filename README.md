@@ -1,5 +1,5 @@
 # Emails
-This script generates personalized emails for students who want to know their final grade. The output consists of an n number of .txt files, where n=number of students, and filename= your students' first names.
+This script generates personalized emails for students who want to know their final grade. The output consists of an n number of .txt files, where n=number of students, and filename.txt= your students' first names.
 
 - Input: you need a .csv file with your students' first name in a specific column, and their other grades in other columns.
 - Variables:
