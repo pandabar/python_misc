@@ -19,3 +19,7 @@ Parameters to change:
 - Replace "dst.wav" with the name of your audio file.
 - The **result** variable uses the Google API, but you can use others (read the library description for more info). You can also specify the language, which in this case was "es-CL" (Chilean Spanish)
 - The **text** variable creates a text file (I named mine "transcript.txt").
+
+## Break
+
+What a humble script, but I use it very often! Sometimes the output file from speechrec.py needs to be written in such a way that one line equals one word (but sometimes I don't need that, hence the different script instead of incorporating this bit to the previous one). Here, "transcript.txt" is my input file, and "transcript2.txt" my output.
